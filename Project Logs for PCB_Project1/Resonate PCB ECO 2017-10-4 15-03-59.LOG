@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=OSC Pin=P1-2
+Change Component Designator: OldDesignator=C1_UR1_ NewDesignator=C1_UR1
+Change Component Designator: OldDesignator=C1_UR2_ NewDesignator=C1_UR2
+Change Component Designator: OldDesignator=C2_UR1_ NewDesignator=C2_UR1
+Change Component Designator: OldDesignator=C2_UR2_ NewDesignator=C2_UR2
+Change Component Designator: OldDesignator=C3_UR1_ NewDesignator=C3_UR1
+Change Component Designator: OldDesignator=C3_UR2_ NewDesignator=C3_UR2
+Change Component Designator: OldDesignator=C4_UR1_ NewDesignator=C4_UR1
+Change Component Designator: OldDesignator=C4_UR2_ NewDesignator=C4_UR2
+Change Component Designator: OldDesignator=C5_UR1_ NewDesignator=C5_UR1
+Change Component Designator: OldDesignator=C5_UR2_ NewDesignator=C5_UR2
+Change Component Designator: OldDesignator=C6_UR1_ NewDesignator=C6_UR1
+Change Component Designator: OldDesignator=C6_UR2_ NewDesignator=C6_UR2
+Change Component Designator: OldDesignator=C7_UR1_ NewDesignator=C7_UR1
+Change Component Designator: OldDesignator=C7_UR2_ NewDesignator=C7_UR2
+Change Component Designator: OldDesignator=C8_UR1_ NewDesignator=C8_UR1
+Change Component Designator: OldDesignator=C8_UR2_ NewDesignator=C8_UR2
+Change Component Designator: OldDesignator=C9_UR1_ NewDesignator=C9_UR1
+Change Component Designator: OldDesignator=C9_UR2_ NewDesignator=C9_UR2
+Change Component Designator: OldDesignator=C10_UR1_ NewDesignator=C10_UR1
+Change Component Designator: OldDesignator=C10_UR2_ NewDesignator=C10_UR2
+Change Component Designator: OldDesignator=C11_UR1_ NewDesignator=C11_UR1
+Change Component Designator: OldDesignator=C11_UR2_ NewDesignator=C11_UR2
+Change Component Designator: OldDesignator=C12_UR1_ NewDesignator=C12_UR1
+Change Component Designator: OldDesignator=C12_UR2_ NewDesignator=C12_UR2
+Change Component Designator: OldDesignator=C13_UR1_ NewDesignator=C13_UR1
+Change Component Designator: OldDesignator=C13_UR2_ NewDesignator=C13_UR2
+Change Component Designator: OldDesignator=D1_UR1_ NewDesignator=D1_UR1
+Change Component Designator: OldDesignator=D1_UR2_ NewDesignator=D1_UR2
+Change Component Designator: OldDesignator=D2_UR1_ NewDesignator=D2_UR1
+Change Component Designator: OldDesignator=D2_UR2_ NewDesignator=D2_UR2
+Change Component Designator: OldDesignator=D3_UR1_ NewDesignator=D3_UR1
+Change Component Designator: OldDesignator=D3_UR2_ NewDesignator=D3_UR2
+Change Component Designator: OldDesignator=D4_UR1_ NewDesignator=D4_UR1
+Change Component Designator: OldDesignator=D4_UR2_ NewDesignator=D4_UR2
+Change Component Designator: OldDesignator=Q1_UR1_ NewDesignator=Q1_UR1
+Change Component Designator: OldDesignator=Q1_UR2_ NewDesignator=Q1_UR2
+Change Component Designator: OldDesignator=Q2_UR1_ NewDesignator=Q2_UR1
+Change Component Designator: OldDesignator=Q2_UR2_ NewDesignator=Q2_UR2
+Change Component Designator: OldDesignator=Q3_UR1_ NewDesignator=Q3_UR1
+Change Component Designator: OldDesignator=Q3_UR2_ NewDesignator=Q3_UR2
+Change Component Designator: OldDesignator=R1_UR1_ NewDesignator=R1_UR1
+Change Component Designator: OldDesignator=R1_UR2_ NewDesignator=R1_UR2
+Change Component Designator: OldDesignator=R2_UR1_ NewDesignator=R2_UR1
+Change Component Designator: OldDesignator=R2_UR2_ NewDesignator=R2_UR2
+Change Component Designator: OldDesignator=R3_UR1_ NewDesignator=R3_UR1
+Change Component Designator: OldDesignator=R3_UR2_ NewDesignator=R3_UR2
+Change Component Designator: OldDesignator=R4_UR1_ NewDesignator=R4_UR1
+Change Component Designator: OldDesignator=R4_UR2_ NewDesignator=R4_UR2
+Change Component Designator: OldDesignator=R5_UR1_ NewDesignator=R5_UR1
+Change Component Designator: OldDesignator=R5_UR2_ NewDesignator=R5_UR2
+Change Component Designator: OldDesignator=R6_UR1_ NewDesignator=R6_UR1
+Change Component Designator: OldDesignator=R6_UR2_ NewDesignator=R6_UR2
+Change Component Designator: OldDesignator=R7_UR1_ NewDesignator=R7_UR1
+Change Component Designator: OldDesignator=R7_UR2_ NewDesignator=R7_UR2
+Change Component Designator: OldDesignator=R8_UR1_ NewDesignator=R8_UR1
+Change Component Designator: OldDesignator=R8_UR2_ NewDesignator=R8_UR2
+Change Component Designator: OldDesignator=R9_UR1_ NewDesignator=R9_UR1
+Change Component Designator: OldDesignator=R9_UR2_ NewDesignator=R9_UR2
+Change Component Designator: OldDesignator=U1_UR1_ NewDesignator=U1_UR1
+Change Component Designator: OldDesignator=U1_UR2_ NewDesignator=U1_UR2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=MOD Pin=P1-2
+Added Pin To Net: NetName=OSC Pin=P1-2
+Change Net Name : Old Net Name=4.7V_UR1_ New Net Name=4.7V_UR1
+Change Net Name : Old Net Name=4.7V_UR2_ New Net Name=4.7V_UR2
+Change Net Name : Old Net Name=5VHS_UR1_ New Net Name=5VHS_UR1
+Change Net Name : Old Net Name=5VHS_UR2_ New Net Name=5VHS_UR2
+Change Net Name : Old Net Name=GH_UR1_ New Net Name=GH_UR1
+Change Net Name : Old Net Name=GH_UR2_ New Net Name=GH_UR2
+Change Net Name : Old Net Name=GL_UR1_ New Net Name=GL_UR1
+Change Net Name : Old Net Name=GL_UR2_ New Net Name=GL_UR2
+Change Net Name : Old Net Name=NetC4_UR1__1 New Net Name=NetC4_UR1_1
+Change Net Name : Old Net Name=NetC4_UR1__2 New Net Name=NetC4_UR1_2
+Change Net Name : Old Net Name=NetC4_UR2__1 New Net Name=NetC4_UR2_1
+Change Net Name : Old Net Name=NetC4_UR2__2 New Net Name=NetC4_UR2_2
+Change Net Name : Old Net Name=NetD3_UR1__2 New Net Name=NetD3_UR1_2
+Change Net Name : Old Net Name=NetD3_UR2__2 New Net Name=NetD3_UR2_2
+Change Net Name : Old Net Name=NetQ1_UR1__3 New Net Name=NetQ1_UR1_3
+Change Net Name : Old Net Name=NetQ1_UR2__3 New Net Name=NetQ1_UR2_3
+Change Net Name : Old Net Name=NetQ2_UR1__2 New Net Name=NetQ2_UR1_2
+Change Net Name : Old Net Name=NetQ2_UR2__2 New Net Name=NetQ2_UR2_2
+Change Net Name : Old Net Name=NetQ3_UR1__2 New Net Name=NetQ3_UR1_2
+Change Net Name : Old Net Name=NetQ3_UR2__2 New Net Name=NetQ3_UR2_2
+Change Net Name : Old Net Name=OUT_UR1_ New Net Name=OUT_UR1
+Change Net Name : Old Net Name=OUT_UR2_ New Net Name=OUT_UR2
+Change Class Name : Old Net Name=UR1_ New Net Name=UR1
+Change Class Name : Old Net Name=UR2_ New Net Name=UR2
+Added Room: Name=UR1
+Added Room: Name=UR2

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=OSC Pin=P1-2
+Added Component: Designator=U4(TSOP65P220X100-6N)
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=NCLR Pin=P1-1
+Added Pin To Net: NetName=MOD Pin=P1-2
+Added Pin To Net: NetName=OSC Pin=P1-2
+Added Pin To Net: NetName=HFOSC Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=LFOSC Pin=U4-3
+Added Pin To Net: NetName=INTOSC Pin=U4-4
+Added Pin To Net: NetName=5V Pin=U4-5
+Added Pin To Net: NetName=A4WPMODE Pin=U4-6
+Added Member To Class: ClassName=U_Oscillating Member=Component U4 74LS157
+Added Room: Name=Resonance-AA0
+Added Room: Name=U_Oscillating
+Added Room: Name=UR1
+Added Room: Name=UR2
