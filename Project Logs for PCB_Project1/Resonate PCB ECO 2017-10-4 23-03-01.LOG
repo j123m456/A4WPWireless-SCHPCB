@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=NCLR Pin=P1-1
-Removed Pin From Net: NetName=MOD Pin=P1-2
-Change Component Footprint: Designator=T1 Old Footprint=TRF_4 New Footprint=SOIC127P590X175-4N
-Change Component Footprint: Designator=T2 Old Footprint=TRF_4 New Footprint=TSOP65P490X100-4N
-Added Pin To Net: NetName=GND Pin=P1-1
-Added Pin To Net: NetName=NCLR Pin=P1-1
-Added Pin To Net: NetName=MOD Pin=P1-2
-Added Pin To Net: NetName=OSC Pin=P1-2
